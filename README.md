@@ -57,3 +57,4 @@ For GPIO- https://www.ics.com/blog/gpio-programming-using-sysfs-interface
 
 For PWM- https://github.com/mohdismailj/fancontrol/blob/main/fancontrol.sh
         
+I also created a bash script to control the access the PWM pins in BrainyPi and control them using frequency and duty cycle.
