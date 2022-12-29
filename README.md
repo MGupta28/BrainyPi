@@ -43,6 +43,10 @@ Now you can ssh into the Pi.
 
 7. Now you can Follow the steps given on the official [ROS WIki](http://wiki.ros.org/melodic/Installation/Ubuntu) to install ROS on BrainyPi.
 
+## Installing GUI on the given ubuntu image:
+
+Unforunately you can not install and access gui on this ubuntu image because it does not have the drivers and modules to support the GUI.
+
 ## Using the GPIO and PWM pins in BrainyPi.
 
 You can access the GPIO pins of BrainyPi in the same way you do for RaspberryPi but it is only supported in the official rbian image of BrainyPi.
